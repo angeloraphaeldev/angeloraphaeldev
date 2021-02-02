@@ -25,6 +25,8 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="NodeJs" widht="26px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="32"/>
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -32,13 +34,12 @@
 <img align="left" alt="Docker" widht="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" height="32"/>
 
 <br>
----
 
-
- [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&?count_private=true&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ 
  ---
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberoff&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberoff&layout=compact&theme=synthwave&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
