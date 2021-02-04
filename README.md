@@ -36,7 +36,7 @@
 ---
 <br>
 
- [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&?count_private=true&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&count_private=true&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
