@@ -1,7 +1,7 @@
 ## About Me
 
 - 🔭 Estou trabalhando como estagiário na Brisanet Telecomunicações...
-- 🌱 Atualmente estou estudando Back-End.
+- 🌱 Estudando Tecnologias Back-End.
 - 🤔 Procurando desenvolver habilidades de fullstack-developer...
 - ⚡ Amante da Tecnologia e Programação...
 
@@ -11,19 +11,21 @@
 [<code> <img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"> </code>][linkedin]
 [<code> <img height="30" src="https://image.flaticon.com/icons/png/512/174/174855.png"> </code>][instagram]
 
-<br>
+---
 
 ### Technologies 🧑‍💻
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<img align="left" height="30" href="www.javascript.com" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" height="30" href="www.typescriptlang.org" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img align="left" height="30" href="https://nodejs.org/en/" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" height="30" href="www.nestjs.com" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
+<img align="left" height="30" href="www.w3schools.com/html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" height="30" href="www.w3schools.com/" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" height="30" href="www.docker.com" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+
 ---
+
 <br>
 
  [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&count_private=true&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
