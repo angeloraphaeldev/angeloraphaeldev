@@ -36,4 +36,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/angelo-raphael/
-[instagram]: https://www.instagram.com/angelo_.raphael
+[instagram]: https://www.instagram.com/angeloraphael._
