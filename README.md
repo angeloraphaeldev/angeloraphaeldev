@@ -1,39 +1,34 @@
-### About Me
+## FALA DEV!!
 
-- 🌱 Estudando Tecnologias Back-End.
+- 🌱 Estudando NestJS
 - 🤔 Procurando desenvolver habilidades de fullstack-developer...
-- ⚡ Amante da Tecnologia e Programação...
 
----
-
-### Social Network👥
-[<code> <img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"> </code>][linkedin]
-[<code> <img height="30" src="https://image.flaticon.com/icons/png/512/174/174855.png"> </code>][instagram]
-
----
-
-### Technologies 🧑‍💻
-
-
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left" height="30" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
-
----
-
-<br>
-
- [![Cyberoff github stats](https://github-readme-stats.vercel.app/api?username=Cyberoff&count_private=true&show_icons=true&show_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Cyberoff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoff&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rapha-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Rapha-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Rafa-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Rafa-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Rafa-Python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rapha-Nest"  src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align="center" alt="Rapha-Node"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Rapha-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
  
+ ##
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberoff&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[linkedin]: https://www.linkedin.com/in/angelo-raphael/
-[instagram]: https://www.instagram.com/angeloraphael._
+ <div> 
+  <a href="https://instagram.com/angeloraphael._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/angelo-raphael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:jaredleto664@protonmail.ch"><img src=" https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Lo_Mori"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  
+    ![Snake animation](https://github.com/cyberoff/cyberoff/blob/output/github-contribution-grid-snake.svg)
+ </div>
+ 
+  
