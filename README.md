@@ -18,6 +18,7 @@
   <img align="center" alt="Rapha-Nest"  src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Rapha-Node"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Rapha-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+
 </div>
  
  ##
@@ -25,10 +26,9 @@
  <div> 
   <a href="https://instagram.com/angeloraphael._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/angelo-raphael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="mailto:jaredleto664@protonmail.ch"><img src=" https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Lo_Mori"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  
-    ![Snake animation](https://github.com/cyberoff/cyberoff/blob/output/github-contribution-grid-snake.svg)
+   
+   
  </div>
  
   
