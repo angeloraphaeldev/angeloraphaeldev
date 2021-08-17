@@ -28,7 +28,7 @@
   <a href="https://t.me/Lo_Mori"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:jaredleto664@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
    
-  <img align="right" alt="Rapha-ProfileVisits" src="https://komarev.com/ghpvc/?username=cyberoff&color=red"/>
+  <img align="right" alt="Rapha-ProfileVisits" src="https://komarev.com/ghpvc/?username=cyberoff&color=blueviolet&style=flat-plastic&label=PROFILE+VIEWS"/>
    
    
  </div>
