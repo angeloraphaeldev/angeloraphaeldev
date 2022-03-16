@@ -1,6 +1,5 @@
 ## FALA DEV!!
-- 🌱 Estudando NestJS
-- 🤔 Procurando desenvolver habilidades de fullstack-developer...
+- 🌱 Estudando Golang...
 
 <div>
   <a href="https://github.com/Cyberoff">
