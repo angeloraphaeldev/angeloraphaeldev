@@ -1,6 +1,6 @@
 # Hello Dev!!
 
-### I'm Raphael, from Brazil, I'm 19 years old and constantly seeking to improve my knowledge.
+### I'm Raphael, from Brazil. I'm 19 years old and constantly seeking to improve my knowledge.
 - 🌱 Studying Golang...
 
 <div>
