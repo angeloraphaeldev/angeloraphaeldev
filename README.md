@@ -1,7 +1,7 @@
 # Hello Dev!!
 
 ### I'm Raphael, from Brazil. I'm 19 years old and constantly seeking to improve my knowledge.
-- 🌱 Studying Golang...
+- 🌱 Working with Nodejs...
 
 <div>
   <a href="https://github.com/angeloraphaeldev">
