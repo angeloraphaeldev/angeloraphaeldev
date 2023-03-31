@@ -2,6 +2,7 @@
 
 ### I'm Raphael, from Brazil. I'm 20 years old and constantly seeking to improve my knowledge.
 - 🌱 Working with Nodejs...
+- 📝 Studying Computer Science...
 
 <div>
   <a href="https://github.com/angeloraphaeldev">
