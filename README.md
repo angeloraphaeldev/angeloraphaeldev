@@ -1,7 +1,5 @@
 # Hello Dev!!
 
-### I'm Raphael, from Brazil. I'm 20 years old and constantly seeking to improve my knowledge.
-- 🌱 Working with Nodejs...
 - 📝 Studying Computer Science...
 - 🛡️ Studying Quality Assurance ...
 <div>
@@ -20,13 +18,6 @@
   <img align="center" alt="Rapha-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
  
- ##
- 
- <div> 
-  <a href="https://www.linkedin.com/in/angelo-raphael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/cyber_0ff"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:jaredleto664@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-   
   <img align="right" alt="Rapha-ProfileVisits" src="https://komarev.com/ghpvc/?username=angeloraphaeldev&color=blueviolet&style=flat-plastic&label=PROFILE+VIEWS"/>
    
    
