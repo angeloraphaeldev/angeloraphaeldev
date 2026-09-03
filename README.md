@@ -1,4 +1,4 @@
-# XCy 👋
+# xCy 👋
 
 QA Engineer → Backend → AppSec
 
